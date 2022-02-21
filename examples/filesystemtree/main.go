@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/m1gwings/treedrawer/tree"
+	"github.com/0x7FFFFFFFFFFFFFFF/treedrawer/tree"
 )
 
 func main() {
